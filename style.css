@@ -11,3 +11,7 @@ div {
     heigth: 50px;
 }
 
+.container {
+    max-width: 500px;
+    min-heigth: 400px;
+}
