@@ -1,6 +1,6 @@
 a = "Hello World"
 print(a)
 
-a = 'ABHI SARKAR'
+x = 'ABHI SARKAR'
 
-print(a.lower())
+print(x.lower())
